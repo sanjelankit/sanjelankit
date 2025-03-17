@@ -1,7 +1,7 @@
 # Hi there, I'm Ankit Sanjel! 👋  
 
 ## 🚀 About Me  
-I’m a **Computer Science student at Saginaw Valley State University (SVSU)** with a passion for **Data Science, Startups, and Software Development**. I enjoy solving real-world problems through code and exploring new technologies.  
+I’m a **Computer Science student at Saginaw Valley State University (SVSU)** with a passion for **Data Science and Software Development**. I enjoy solving real-world problems through code and exploring new technologies.  
 
 - 📊 **Aspiring Data Scientist** – Passionate about data analytics, visualization, and machine learning.  
 - 💻 **Full-Stack Enthusiast** – Experience with Java, Python, SQL, and web technologies.  
