@@ -16,7 +16,7 @@ I’m a **Computer Science student at Saginaw Valley State University (SVSU)** w
 
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjelankit-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ankitsanjel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanjelankit-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjelankit/)  
 📩 Email: sanjelankit@gmail.com 
 
 **Let's build something great together! 🚀**  
